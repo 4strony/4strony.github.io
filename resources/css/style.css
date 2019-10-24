@@ -7,8 +7,8 @@ html {
 body {
   color: #111;
   background-color: #f2f2f2;
-  width: 80%;
   max-width: 60em;
+  min-width: 320px;
   margin: auto;
 }
 
