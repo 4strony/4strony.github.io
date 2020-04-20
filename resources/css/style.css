@@ -12,19 +12,20 @@ body {
   margin: auto;
 }
 
-.content {
+.page_content {
   padding: 2em;
   padding-top: 0.5em;
 }
 
 
 h1, h2, h3 {
-  padding: 0.5em;
+  padding: 0.3em;
 }
 
 h1 {
   background-color: #2B282C;
   color: #fff;
+  margin: 0;
 }
 
 code {
