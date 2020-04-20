@@ -10,6 +10,7 @@ body {
   max-width: 60em;
   min-width: 320px;
   margin: auto;
+  margin-bottom: 3em;
 }
 
 .page_content {
