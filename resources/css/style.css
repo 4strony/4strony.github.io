@@ -13,8 +13,18 @@ body {
   margin-bottom: 3em;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+ul li:before {
+  content: '⛰';
+  margin: 0 0.5em;
+}
+
 .page_content {
-  padding: 2em;
+  padding: 1em;
   padding-top: 0.5em;
 }
 
