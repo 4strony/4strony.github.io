@@ -79,3 +79,8 @@ p.author, p.date {
 img {
   width: 100%
 }
+
+.gallery img {
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
